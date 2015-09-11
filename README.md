@@ -1,5 +1,7 @@
 # docker-dnsmasq
 
+[![Docker Repository on Quay.io](https://quay.io/repository/freshbooks/dnsmasq/status "Docker Repository on Quay.io")](https://quay.io/repository/freshbooks/dnsmasq)
+
 It's a [dnsmasq][dnsmasq] Docker image. It is only 6 MB in size. It is just an `ENTRYPOINT` to the `dnsmasq` binary. Can you smell what the rock is cookin'?
 
 ## Usage
